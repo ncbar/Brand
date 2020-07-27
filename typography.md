@@ -11,10 +11,10 @@ Font load and fallback order: __Segoe UI, Helvetica Neue, Tahoma, Arial, sans-se
 
 {::nomarkdown}
 <dl>
-    <dt>Segoe UI</dt>
-    <dd>Ships with Windows Vista and newer and Microsoft Office.</dd>
-    <dt>Helvetica Neue</dt>
-    <dd>Ships with OSX.</dd>
+    <dt>Arial</dt>
+    <dd>Ships with most operating systems.</dd>
+    <dt>Source Sans Pro</dt>
+    <dd>Downloadable Google font.</dd>
     <dt>Tahoma, Arial</dt>
     <dd>Ships with most operating systems.</dd>
 </dl>
@@ -31,7 +31,6 @@ Font load and fallback order: __Segoe UI, Helvetica Neue, Tahoma, Arial, sans-se
 <div class="pl-preview">
 <div style="font-size: 15px">
     <p style="font-weight: 700">700 - Bold: The quick brown fox jumps over the lazy dog</p>
-    <p style="font-weight: 600">600 - Semibold: The quick brown fox jumps over the lazy dog</p>
     <p style="font-weight: 400">400 - Regular: The quick brown fox jumps over the lazy dog</p>
 </div>
 </div>
@@ -39,7 +38,6 @@ Font load and fallback order: __Segoe UI, Helvetica Neue, Tahoma, Arial, sans-se
 
 {% highlight html %}
 <p style="font-weight: 700">700 - Bold: The quick brown fox jumps over the lazy dog</p>
-<p style="font-weight: 600">600 - Semibold: The quick brown fox jumps over the lazy dog</p>
 <p style="font-weight: 400">400 - Regular: The quick brown fox jumps over the lazy dog</p>
 {% endhighlight %}
 
@@ -48,7 +46,7 @@ Font load and fallback order: __Segoe UI, Helvetica Neue, Tahoma, Arial, sans-se
 <div class="pl-pattern">
 ### Styles
 
-#### Segoe UI
+#### Optima
 {::nomarkdown}
 <div class="pl-preview">
 <table class="table table-borderless table-valign" style="width: 550px;">
@@ -60,10 +58,6 @@ Font load and fallback order: __Segoe UI, Helvetica Neue, Tahoma, Arial, sans-se
         <tr>
             <td>h1. Display 2</td>
             <td><h1>Regular 40px</h1></td>
-        </tr>
-        <tr>
-            <td>h2. Display 1</td>
-            <td><h2>Semibold 25px</h2></td>
         </tr>
         <tr>
             <td>h3. Headline</td>
@@ -112,26 +106,26 @@ Font load and fallback order: __Segoe UI, Helvetica Neue, Tahoma, Arial, sans-se
 {::nomarkdown}
 <div class="pl-preview">
 <div style="max-width: 650px; line-height: 1.8;">
-    <h1>Search for patents</h1>
-    <h2 class="text-muted normal" style="margin-top: 18px;">New to Patent Searching? See this important information about searching for patents</h2>
-    <h6 class="text-muted">Jul 14, 2015</h6>
+    <h1>Welcome to the NCBA</h1>
+    <h2 class="text-muted normal" style="margin-top: 18px;">You're in the right place.</h2>
+    <h6 class="text-muted">July 27, 2020</h6>
     <hr>
-    <p>Inventors are encouraged to search the USPTO's patent database to see if a patent has already been filed or granted that is similar to your patent. Patents may be searched in the USPTO Patent Full-Text and Image Database (PatFT). The USPTO houses full text for patents issued from 1976 to the present and PDF images for all patents from 1790 to the present.</p>
-    <p>All sequences (SEQ ID NOs.) and tables for listed patents or publications are available for viewing, without downloading, by accessing the proper document detail page and then submitting a SEQ ID NO or a mega table ID number.</p>
-    <h3>Global Patent Search Network (GPSN)</h3>
-    <p>Global Patent Search Network (GPSN) enables users to search the full text of multiple international patent collections. The initial collection available will be Chinese patent documentation from the State Intellectual Property Office (SIPO) of the People's Republic of China. Users can search published applications, granted patents and utility models from 1985 to 2012. The data available includes full text Chinese patents, English machine translations and full document images. This collection will be periodically updated to include additional years of coverage.</p>
-    <h4>Searching full text patents (since 1976)</h4>
-    <p>Customize a search on all or a selected group of elements (fields) of a patent.
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a rutrum est, eget ultricies metus. In in libero purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Phasellus dapibus elementum massa. Proin gravida iaculis metus, rutrum ornare dui pulvinar lacinia. Nulla vel nunc quis nibh ultrices dictum a non ante. Suspendisse ac lacinia arcu, nec pharetra velit.</p>
+    <p>Praesent vitae euismod velit. Sed leo nisl, bibendum at enim vel, lobortis vulputate nisl. Suspendisse congue mollis odio, sed tincidunt ligula aliquet sit amet. Nam eu ipsum odio. Vestibulum sed rutrum neque. Cras facilisis id lectus nec eleifend. Proin blandit placerat mauris a venenatis. Donec vel dignissim mauris. Nullam commodo dolor varius orci hendrerit viverra. Donec in ornare nisl, a ultrices nibh. Quisque quis congue eros. Duis vehicula nibh lectus, et convallis erat suscipit in. Sed id aliquet massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras tempor convallis arcu, ultricies lacinia diam feugiat non.</p>
+    <h3>Article Subhead</h3>
+    <p>Aenean ultricies dolor lorem, id porttitor est pretium interdum. Nulla dapibus, lorem vitae accumsan sollicitudin, tortor purus sodales eros, tincidunt condimentum tortor ante et nibh. Etiam auctor vehicula diam, nec rhoncus sapien vestibulum in. Praesent vitae aliquam erat, in ullamcorper tortor. Morbi lacinia lacus ac nisl consequat, ut molestie ligula fringilla. Vestibulum dolor erat, cursus eu interdum quis, accumsan nec augue. Suspendisse porta diam et mattis auctor. Pellentesque placerat, massa sit amet euismod ullamcorper, leo sapien ornare augue, a dignissim nibh est eu risus. Sed ut auctor enim, nec dapibus elit. Nunc vitae massa at nibh eleifend commodo non id tortor.</p>
+    <h4>Article Subhead 2</h4>
+    <p>Cras rhoncus dolor in nulla varius vestibulum. Phasellus facilisis, sem non accumsan eleifend, dui purus interdum eros, id vestibulum augue lectus a ex. 
         <ul class="list-unstyled">
-            <li><a href="">Quick search</a></li>
-            <li><a href="">Advanced search</a></li>
-            <li><a href="">Patent number search</a></li>
+            <li><a href="">Etiam auctor vehicula diam</a></li>
+            <li><a href="">Cursus eu interdum quis</a></li>
+            <li><a href="">A dignissim nibh est</a></li>
         </ul>
     </p>
-    <h3>Patent Application Information Retrieval (PAIR)</h3>
-    <p>The Patent Application Information Retrieval (PAIR) system provides IP customers a safe, simple, and secure way to retrieve and download information regarding patent application status.
+    <h3>Article Subhead 2</h3>
+    <p>Vestibulum sollicitudin elementum scelerisque. Nullam gravida faucibus magna, in iaculis urna sodales at. Nunc aliquam mi non eros sagittis eleifend. Nullam et accumsan sapien. Vivamus porttitor facilisis risus, et porttitor ex sodales vitae. Nulla vitae feugiat purus. Aenean imperdiet tortor vel augue efficitur eleifend. Nullam vulputate, purus eu sagittis blandit, libero dolor euismod massa, sed semper dui odio eu dolor. Ut ac libero id augue ultrices malesuada.
     <ul class="list-unstyled">
-        <li><a href="">Visit PAIR</a></li>
+        <li><a href="">Ultrices malesuada</a></li>
     </ul></p>
 </div>
 </div>
